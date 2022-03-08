@@ -1,3 +1,5 @@
+//import estils from "../models/estils.js";
+//let editarEstils = new estils();
 
 //Detectem la part del texte seleccionat
 function getSelectionText() {
@@ -69,4 +71,3 @@ clean.addEventListener("click", () => {
   );
   console.log("clean s'està executant");
 });
-

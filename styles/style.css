@@ -1,0 +1,32 @@
+body {
+  background-color: azure;
+}
+
+.botonera {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+  text-align: center;
+  width: 100%;
+}
+
+.text {
+  background-color: #fff;
+  border: solid green 2px;
+  height: 70vh;
+  margin: 0 auto;
+  padding: 10px;
+  width: 70vw;
+}
+
+button {
+  margin: 2px;
+}
+
+h1 {
+  text-align: center;
+}
+
+h1 span {
+  color: green;
+}

@@ -1,0 +1,25 @@
+
+
+/* Gestion GENERAL -----------------------------------------------------------*/
+
+body {
+    width: 90%;
+    margin: 0 auto;
+    text-align: left;
+}
+p, img {
+    cursor: pointer;
+}
+.espai_img_txt {
+    display: flex;
+    align-items: center;
+    margin: 10px;
+    padding-left: 10px;
+    border: 1px solid black;
+}
+#text_negrete {
+    margin-left: 20px;
+}
+.text_negrete {
+    font-weight: bold;
+}
